@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Morningstar005/dashboard/static/css/main.f1940cfe.css",
+    "main.js": "/Morningstar005/dashboard/static/js/main.22ce653e.js",
+    "index.html": "/Morningstar005/dashboard/index.html",
+    "main.f1940cfe.css.map": "/Morningstar005/dashboard/static/css/main.f1940cfe.css.map",
+    "main.22ce653e.js.map": "/Morningstar005/dashboard/static/js/main.22ce653e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1940cfe.css",
+    "static/js/main.22ce653e.js"
+  ]
+}
